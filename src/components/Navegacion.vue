@@ -72,6 +72,7 @@ import { RouterLink } from 'vue-router';
 }
 .router-prin:hover{
     background: none;
+    transform: scale(1.05);
 }
 .logo{
     width: 60%;
